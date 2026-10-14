@@ -1,0 +1,2 @@
+Selected model,Accuracy,Precision,Recall,F1-score,ROC-AUC,Average Precision (AP),Classification threshold
+Random Forest,0.8296962547920967,0.36246200607902734,0.6015132408575031,0.4523470839260313,0.7919234864590968,0.4543667779527912,0.5

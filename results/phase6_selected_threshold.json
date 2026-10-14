@@ -1,0 +1,9 @@
+{
+  "selected_model": "Phase 5 Random Forest (retained)",
+  "primary_threshold": 0.62,
+  "selection_metric": "validation F1-score",
+  "tie_breaking": "closest to 0.50, then higher precision, then larger threshold",
+  "original_threshold": 0.5,
+  "precision_at_least_0_40_threshold": 0.62,
+  "precision_constraint_met": true
+}

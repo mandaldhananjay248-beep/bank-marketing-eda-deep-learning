@@ -1,0 +1,7 @@
+recommendation,caveat
+"Test tailored, voluntary messaging with contact-history segments, especially previous successful campaign outcomes.",This subgroup is comparatively small and may reflect prior campaign selection.
+"Evaluate contact channel and timing in a randomized, consent-aware pilot.","Observed differences can reflect seasonality, channel availability, and selection."
+Review housing- and loan-related message relevance without denying access or service based on debt status.,Historical rates are observational and do not establish customer need or a causal effect.
+Monitor contact frequency and provide clear opt-out safeguards; test whether additional attempts are worthwhile.,High-contact groups are uneven and sparse; repeated contact may burden customers.
+"Use model scores only as a human-reviewed prioritization aid after calibration, fairness, privacy, and drift checks.",This is an educational experiment and is not validated for deployment.
+Compare interventions against randomized controls and track incremental outcomes and costs.,EDA associations and predictive metrics do not show causal impact or profit.

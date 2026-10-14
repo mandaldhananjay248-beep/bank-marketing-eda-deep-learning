@@ -1,0 +1,3 @@
+threshold,predicted_positive_count,true_positive_count,false_positive_count,false_negative_count,true_negative_count,precision,recall,f1_score
+0.5,1343,493,850,301,5138,0.3670886075949367,0.6209068010075567,0.4613944782405241
+0.62,818,395,423,399,5565,0.4828850855745721,0.49748110831234255,0.49007444168734493

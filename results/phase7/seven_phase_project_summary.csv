@@ -1,0 +1,8 @@
+phase,title,summary
+1,Initial data loading and EDA,"Loaded bank-full.csv and documented schema, target, data quality, and initial plots."
+2,Data quality and preprocessing preparation,"Reviewed unknown categories, outliers, category patterns, and leakage-aware preprocessing plans."
+3,Advanced EDA and visualization,"Added correlation, age and campaign-contact analysis, and the seven visualization stages."
+4,Feature engineering and preprocessing,"Encoded target, excluded duration, split stratified data, and fitted training-only preprocessing."
+5,Baseline model experiments,"Compared dummy, logistic regression, decision tree, and random forest baselines."
+6,Model tuning and evaluation,"Tuned Random Forest with training-only CV, selected model and threshold on validation, and evaluated the reused test holdout."
+7,Business insights and responsible interpretation,"Compared category rates and feature importance, demonstrated feature-only predictions, and documented limitations and cautious recommendations."
